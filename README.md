@@ -1,6 +1,6 @@
 # Snake Game
 
-Snake Game is everyone's childhood game. Due to our familiarity with this game, we would love to recreate the game as the final project for this class. 
+Snake Game is everyone's childhood game.
 
 The main functionality of the game is to guide the snake to eat the food on the game board, resulting in the snake getting longer gradually. The game will end when the snake hits the wall or gets too long to the point that its head collides with its body. 
 
